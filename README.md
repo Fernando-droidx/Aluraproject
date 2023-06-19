@@ -20,7 +20,7 @@ El proyecto del front-end de la Barbería Alura se desarrolla utilizando las sig
 ## Instrucciones de ejecución
 
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
-  git clone https://github.com/tu-usuario/barberia-alura.git
+  https://github.com/Fernando-droidx/Aluraproject
 
 
 2. Abre los archivos HTML en tu navegador web para explorar el sitio web.
